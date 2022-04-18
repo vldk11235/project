@@ -42,3 +42,6 @@ const obj = {
     'Anna': 500,
     'Alice': 800
 };
+
+open: true
+
